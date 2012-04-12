@@ -1,0 +1,15 @@
+body {
+  background-color: #A7BCCC;
+  padding-top: 60px;
+}
+
+
+.rowfirst {
+  text-align: center;
+  background-color: #B1C0CC;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  padding-bottom:10px;
+}
+
